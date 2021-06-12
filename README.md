@@ -9,7 +9,7 @@
   <img align="center" alt="Luiz-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
   <img align="center" alt="Luiz-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
   <img align="center" alt="Luiz-C" height="30" width="40" src="https://raw.githubusercontent.com/jmnote/z-icons/master/svg/c.svg">
-  <img align="right" alt="Luiz-gif"  height="150" width="150" src="https://academy.vcsis.com.br/wp-content/uploads/2016/09/Negocios-na-internet-01.gif">
+  <img align="right" alt="Luiz-gif"  height="140" width="140" src="https://images.squarespace-cdn.com/content/v1/59e4e8ef90badef482f24094/1552504557546-LNKXW47DR5N4C7CL9UD2/ke17ZwdGBToddI8pDm48kJK4Mm1kch8SFO9ZNkN1NT97gQa3H78H3Y0txjaiv_0fDoOvxcdMmMKkDsyUqMSsMWxHk725yiiHCCLfrh8O1z5QHyNOqBUUEtDDsRWrJLTmoW6VMYd7DRFXOxjGuORbJVRIz_X6uKxhFE9bwG5-diIJ9kj42L3XbtP_RiBprpp_/Tick_tock_clock_3.gif?format=2500w">
 </div>
   
   ##
