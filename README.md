@@ -9,7 +9,7 @@
   <img align="center" alt="Luiz-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
   <img align="center" alt="Luiz-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
   <img align="center" alt="Luiz-C" height="30" width="40" src="https://raw.githubusercontent.com/jmnote/z-icons/master/svg/c.svg">
-  <img align="right" alt="Luiz-gif" src="https://user-images.githubusercontent.com/80062199/121790722-88887f80-cbb8-11eb-95e9-12507d699c3a.png">
+  <img align="right" alt="Luiz-gif"  height="150" width="150" src="https://academy.vcsis.com.br/wp-content/uploads/2016/09/Negocios-na-internet-01.gif">
 </div>
   
   ##
