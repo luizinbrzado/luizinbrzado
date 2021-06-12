@@ -9,7 +9,7 @@
   <img align="center" alt="Luiz-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
   <img align="center" alt="Luiz-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
   <img align="center" alt="Luiz-C" height="30" width="40" src="https://raw.githubusercontent.com/jmnote/z-icons/master/svg/c.svg">
-  <img align="right" alt="Luiz-gif" src="https://ichi.pro/assets/images/max/724/0*C-cPP9D2MIyeexAT.gif">
+  <img align="right" alt="Luiz-gif" src="![image](https://user-images.githubusercontent.com/80062199/121790722-88887f80-cbb8-11eb-95e9-12507d699c3a.png)">
 </div>
   
   ##
